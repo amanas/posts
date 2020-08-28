@@ -1,2 +1,2 @@
 # posts
-Articles and other things that I post anywhere
+Articles and other things that I publish anywhere
